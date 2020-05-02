@@ -1,7 +1,5 @@
-com\wdq\springcloud\entities\Payment.class
 com\wdq\springcloud\service\impl\PaymentServiceImpl.class
 com\wdq\springcloud\controller\PaymentController.class
 com\wdq\springcloud\dao\PaymentDao.class
-com\wdq\springcloud\entities\CommonResult.class
 com\wdq\springcloud\PaymentMain8001.class
 com\wdq\springcloud\service\PaymentService.class
