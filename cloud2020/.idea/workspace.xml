@@ -2,23 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de085cc3-175a-46af-901d-61d4d14ce884" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/wdq/springcloud/OrderZKMain80.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/wdq/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/java/com/wdq/springcloud/controller/OrderZKController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/src/main/java/com/wdq/springcloud/Payment8003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/src/main/java/com/wdq/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-provider-payment8003/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/wdq/springcloud/OrderConsulMain80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/wdq/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/wdq/springcloud/controller/OrderConsulController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-paymentconsul-payment8006/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-paymentconsul-payment8006/src/main/java/com/wdq/springcloud/PaymentConsul8006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-paymentconsul-payment8006/src/main/java/com/wdq/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-paymentconsul-payment8006/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SpringCloud2020.mmap" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCloud2020.mmap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wdq/springcloud/PaymentMain8001.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wdq/springcloud/PaymentMain8001.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wdq/springcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wdq/springcloud/controller/PaymentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wdq/springcloud/dao/PaymentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wdq/springcloud/dao/PaymentDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wdq/springcloud/service/PaymentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wdq/springcloud/service/PaymentService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wdq/springcloud/service/impl/PaymentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wdq/springcloud/service/impl/PaymentServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources/mapper/PaymentMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/mapper/PaymentMapper.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +79,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-provider-payment8003/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-consumerconsul-order80/src/main/java/com/wdq/springcloud" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.27011493" />
@@ -99,11 +93,11 @@
       <recent name="com.wdq.springcloud" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\my_java\springCloud2020\cloud2020\cloud-consumerconsul-order80\src\main\java\com\wdq\springcloud" />
       <recent name="D:\my_java\springCloud2020\cloud2020\cloud-provider-payment8003\src\main\resources" />
       <recent name="D:\my_java\springCloud2020\cloud2020\aaaaaaaa\src\main\resources" />
       <recent name="D:\my_java\springCloud2020\cloud2020\cloud-provider-payment8004\src\main\resources" />
       <recent name="D:\my_java\springCloud2020\cloud2020\cloud-provider-payment8002\src\main\resources" />
-      <recent name="D:\my_java\springCloud2020\cloud2020\cloud-provider-payment8002\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -113,7 +107,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.OrderZKMain80">
+  <component name="RunManager" selected="Spring Boot.OrderConsulMain80">
     <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="cloud-eureka-server7001" />
       <extension name="coverage">
@@ -136,6 +130,26 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.wdq.springcloud.EurekaMain7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderConsulMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumerconsul-order80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wdq.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wdq.springcloud.OrderConsulMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wdq.springcloud.OrderMain80" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -166,6 +180,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PaymentConsul8006" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-paymentconsul-payment8006" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wdq.springcloud.PaymentConsul8006" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-provider-payment8001" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.wdq.springcloud.PaymentMain8001" />
@@ -173,26 +194,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaymentMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="cloud-provider-payment8002" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wdq.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wdq.springcloud.PaymentMain8002" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.OrderConsulMain80" />
         <item itemvalue="Spring Boot.Payment8003" />
         <item itemvalue="Spring Boot.OrderZKMain80" />
         <item itemvalue="Spring Boot.EurekaMain7002" />
         <item itemvalue="Spring Boot.EurekaMain7001" />
-        <item itemvalue="Spring Boot.PaymentMain8002" />
       </list>
     </recent_temporary>
   </component>
@@ -206,6 +214,11 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -242,6 +255,7 @@
       <workItem from="1588422554012" duration="1081000" />
       <workItem from="1588423789753" duration="4209000" />
       <workItem from="1588466483741" duration="36000" />
+      <workItem from="1588466698014" duration="3139000" />
     </task>
     <servers />
   </component>
@@ -273,38 +287,46 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="277" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588386884302" />
-    <state width="1471" height="288" key="GridCell.Tab.0.bottom" timestamp="1588466454126">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1471" height="578" key="GridCell.Tab.0.bottom" timestamp="1588470273884">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="288" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588466454126" />
-    <state width="1471" height="288" key="GridCell.Tab.0.center" timestamp="1588466454125">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1471" height="578" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588470265520" />
+    <state width="1471" height="578" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588470273884" />
+    <state width="1471" height="578" key="GridCell.Tab.0.center" timestamp="1588470273884">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="288" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588466454125" />
-    <state width="1471" height="288" key="GridCell.Tab.0.left" timestamp="1588466454125">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1471" height="578" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588470265520" />
+    <state width="1471" height="578" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588470273884" />
+    <state width="1471" height="578" key="GridCell.Tab.0.left" timestamp="1588470273883">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="288" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588466454125" />
-    <state width="1471" height="288" key="GridCell.Tab.0.right" timestamp="1588466454126">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1471" height="578" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588470265520" />
+    <state width="1471" height="578" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588470273883" />
+    <state width="1471" height="578" key="GridCell.Tab.0.right" timestamp="1588470273884">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="288" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588466454126" />
-    <state width="1471" height="288" key="GridCell.Tab.1.bottom" timestamp="1588466454126">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1471" height="578" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588470265520" />
+    <state width="1471" height="578" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588470273884" />
+    <state width="1471" height="578" key="GridCell.Tab.1.bottom" timestamp="1588470273884">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="288" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588466454126" />
-    <state width="1471" height="288" key="GridCell.Tab.1.center" timestamp="1588466454126">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1471" height="578" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588470265520" />
+    <state width="1471" height="578" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588470273884" />
+    <state width="1471" height="578" key="GridCell.Tab.1.center" timestamp="1588470273884">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="288" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588466454126" />
-    <state width="1471" height="288" key="GridCell.Tab.1.left" timestamp="1588466454126">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1471" height="578" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588470265520" />
+    <state width="1471" height="578" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588470273884" />
+    <state width="1471" height="578" key="GridCell.Tab.1.left" timestamp="1588470273884">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="288" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588466454126" />
-    <state width="1471" height="288" key="GridCell.Tab.1.right" timestamp="1588466454126">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state width="1471" height="578" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588470265520" />
+    <state width="1471" height="578" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588470273884" />
+    <state width="1471" height="578" key="GridCell.Tab.1.right" timestamp="1588470273884">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="288" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588466454126" />
+    <state width="1471" height="578" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588470265520" />
+    <state width="1471" height="578" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588470273884" />
     <state width="1877" height="187" key="GridCell.Tab.2.bottom" timestamp="1588313849301">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -337,9 +359,9 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2287" y="109" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588424200931" />
-    <state x="2268" y="215" width="1113" height="593" key="new project wizard" timestamp="1588465298037">
+    <state x="2268" y="215" width="1113" height="593" key="new project wizard" timestamp="1588468078660">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2268" y="215" width="1113" height="593" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588465298037" />
+    <state x="2268" y="215" width="1113" height="593" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588468078660" />
   </component>
 </project>
