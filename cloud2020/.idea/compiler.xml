@@ -19,9 +19,10 @@
         <module name="cloud-provider-payment8001" />
         <module name="aaaaaaaa" />
         <module name="cloud-consumer-feign-hystrix-order80" />
+        <module name="cloud-gateway-gateway9527" />
         <module name="cloud-consumer-hystrix-dashboard9001" />
-        <module name="cloud-consumerconsul-order80" />
         <module name="cloud-consumer-feign-order80" />
+        <module name="cloud-consumerconsul-order80" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
