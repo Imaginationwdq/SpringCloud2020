@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de085cc3-175a-46af-901d-61d4d14ce884" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/java/com/wdq/springcloud/ConfigCenterMain3344.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/wdq/springcloud/ConfigClientMain3355.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/com/wdq/springcloud/controller/ConfigClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/wdq/springcloud/ConfigClientMain3366.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/java/com/wdq/springcloud/config/ConfigClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3366/src/main/resources/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SpringCloud2020.mmap" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCloud2020.mmap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3355/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3355/target/classes/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,6 +141,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConfigClientMain3366" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-client-3366" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wdq.springcloud.ConfigClientMain3366" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="cloud-eureka-server7001" />
       <extension name="coverage">
@@ -147,6 +157,13 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.wdq.springcloud.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wdq.springcloud.EurekaMain7002" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -316,6 +333,7 @@
       <workItem from="1588677343298" duration="2390000" />
       <workItem from="1588740051034" duration="3099000" />
       <workItem from="1588743801597" duration="5079000" />
+      <workItem from="1588756922695" duration="3465000" />
     </task>
     <servers />
   </component>
@@ -347,46 +365,46 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="277" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588679192350" />
-    <state width="1471" height="286" key="GridCell.Tab.0.bottom" timestamp="1588756779627">
+    <state width="1471" height="504" key="GridCell.Tab.0.bottom" timestamp="1588761318578">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="341" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588747353717" />
-    <state width="1471" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588756779627" />
-    <state width="1471" height="286" key="GridCell.Tab.0.center" timestamp="1588756779627">
+    <state width="1471" height="504" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588760962359" />
+    <state width="1471" height="504" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588761318578" />
+    <state width="1471" height="504" key="GridCell.Tab.0.center" timestamp="1588761318577">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="341" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588747353717" />
-    <state width="1471" height="286" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588756779627" />
-    <state width="1471" height="286" key="GridCell.Tab.0.left" timestamp="1588756779627">
+    <state width="1471" height="504" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588760962359" />
+    <state width="1471" height="504" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588761318577" />
+    <state width="1471" height="504" key="GridCell.Tab.0.left" timestamp="1588761318577">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="341" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588747353717" />
-    <state width="1471" height="286" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588756779627" />
-    <state width="1471" height="286" key="GridCell.Tab.0.right" timestamp="1588756779627">
+    <state width="1471" height="504" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588760962359" />
+    <state width="1471" height="504" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588761318577" />
+    <state width="1471" height="504" key="GridCell.Tab.0.right" timestamp="1588761318578">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="341" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588747353717" />
-    <state width="1471" height="286" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588756779627" />
-    <state width="1471" height="286" key="GridCell.Tab.1.bottom" timestamp="1588756779628">
+    <state width="1471" height="504" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588760962359" />
+    <state width="1471" height="504" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588761318578" />
+    <state width="1471" height="504" key="GridCell.Tab.1.bottom" timestamp="1588761318578">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="341" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588747353717" />
-    <state width="1471" height="286" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588756779628" />
-    <state width="1471" height="286" key="GridCell.Tab.1.center" timestamp="1588756779628">
+    <state width="1471" height="504" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588760962359" />
+    <state width="1471" height="504" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588761318578" />
+    <state width="1471" height="504" key="GridCell.Tab.1.center" timestamp="1588761318578">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="341" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588747353717" />
-    <state width="1471" height="286" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588756779628" />
-    <state width="1471" height="286" key="GridCell.Tab.1.left" timestamp="1588756779628">
+    <state width="1471" height="504" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588760962359" />
+    <state width="1471" height="504" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588761318578" />
+    <state width="1471" height="504" key="GridCell.Tab.1.left" timestamp="1588761318578">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="341" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588747353717" />
-    <state width="1471" height="286" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588756779628" />
-    <state width="1471" height="286" key="GridCell.Tab.1.right" timestamp="1588756779628">
+    <state width="1471" height="504" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588760962359" />
+    <state width="1471" height="504" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588761318578" />
+    <state width="1471" height="504" key="GridCell.Tab.1.right" timestamp="1588761318578">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="341" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588747353717" />
-    <state width="1471" height="286" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588756779628" />
+    <state width="1471" height="504" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588760962359" />
+    <state width="1471" height="504" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588761318578" />
     <state width="1471" height="261" key="GridCell.Tab.2.bottom" timestamp="1588657394026">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -415,20 +433,20 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2451" y="184" width="1198" height="671" key="Registry/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588316721884" />
-    <state x="120" y="132" width="1151" height="846" key="SettingsEditor" timestamp="1588755595993">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2040" y="132" width="1151" height="846" key="SettingsEditor" timestamp="1588759002901">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2040" y="132" width="1151" height="846" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588745600935" />
+    <state x="2040" y="132" width="1151" height="846" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588759002901" />
     <state x="120" y="132" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588755595993" />
-    <state x="478" y="330" key="SpringBootCustomization" timestamp="1588755595123">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2398" y="330" key="SpringBootCustomization" timestamp="1588759001206">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2398" y="330" key="SpringBootCustomization/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588669326752" />
+    <state x="2398" y="330" key="SpringBootCustomization/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588759001206" />
     <state x="478" y="330" key="SpringBootCustomization/0.0.1920.1040@0.0.1920.1040" timestamp="1588755595123" />
-    <state x="348" y="215" width="1113" height="593" key="new project wizard" timestamp="1588754847541">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2268" y="215" width="1113" height="593" key="new project wizard" timestamp="1588758813654">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2268" y="215" width="1113" height="593" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588745539879" />
+    <state x="2268" y="215" width="1113" height="593" key="new project wizard/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588758813654" />
     <state x="348" y="215" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1588754847541" />
     <state x="2648" y="195" key="spring file set editor" timestamp="1588745598815">
       <screen x="1920" y="0" width="1920" height="1040" />
