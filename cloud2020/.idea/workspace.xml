@@ -2,29 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de085cc3-175a-46af-901d-61d4d14ce884" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/wdq/springcloud/StreamMQMain8802.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/java/com/wdq/springcloud/controller/ReceiverMessageListenerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/java/com/wdq/springcloud/StreamMQMain8803.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/java/com/wdq/springcloud/controller/ReceiverMessageListenerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8803/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/wdq/springcloud/StreamMQMain8801.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/wdq/springcloud/controller/SendMessageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/wdq/springcloud/service/IMessageProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/java/com/wdq/springcloud/service/impl/MessageProviderImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SpringCloud2020.mmap" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringCloud2020.mmap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-api-commons/target/classes/com/wdq/springcloud/entities/CommonResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/target/classes/com/wdq/springcloud/entities/CommonResult.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-api-commons/target/classes/com/wdq/springcloud/entities/Payment.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/target/classes/com/wdq/springcloud/entities/Payment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api-commons/target/cloud-api-commons-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/target/cloud-api-commons-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api-commons/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-config-center-3344/target/classes/com/wdq/springcloud/ConfigCenterMain3344.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-center-3344/target/classes/com/wdq/springcloud/ConfigCenterMain3344.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/target/classes/com/wdq/springcloud/ConfigClientMain3355.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3355/target/classes/com/wdq/springcloud/ConfigClientMain3355.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-config-client-3355/target/classes/com/wdq/springcloud/controller/ConfigClientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3355/target/classes/com/wdq/springcloud/controller/ConfigClientController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-config-client-3366/target/classes/com/wdq/springcloud/ConfigClientMain3366.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3366/target/classes/com/wdq/springcloud/ConfigClientMain3366.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-config-client-3366/target/classes/com/wdq/springcloud/config/ConfigClientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config-client-3366/target/classes/com/wdq/springcloud/config/ConfigClientController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/META-INF/cloud-consumer-feign-hystrix-order80.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/wdq/springcloud/OrderHystrixMain80.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/wdq/springcloud/OrderHystrixMain80.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/wdq/springcloud/controller/OrderHystrixController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/wdq/springcloud/controller/OrderHystrixController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/wdq/springcloud/service/PaymentFallbackService.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/wdq/springcloud/service/PaymentFallbackService.class" afterDir="false" />
@@ -34,14 +21,20 @@
       <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/com/wdq/springcloud/controller/OrderFeignController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/com/wdq/springcloud/controller/OrderFeignController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/com/wdq/springcloud/service/PaymentFeignService.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/com/wdq/springcloud/service/PaymentFeignService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/target/classes/com/wdq/springcloud/HystrixDashboardMain9001.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboard9001/target/classes/com/wdq/springcloud/HystrixDashboardMain9001.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/META-INF/cloud-consumer-order80.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/wdq/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/wdq/springcloud/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/wdq/myrule/MySelfRule.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/wdq/myrule/MySelfRule.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/wdq/springcloud/OrderMain80.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/wdq/springcloud/OrderMain80.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/wdq/springcloud/config/ApplicationContextConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/wdq/springcloud/config/ApplicationContextConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/wdq/springcloud/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/wdq/springcloud/controller/OrderController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/wdq/springcloud/lb/LoadBanlancer.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/wdq/springcloud/lb/LoadBanlancer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/wdq/springcloud/lb/MyLb.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/wdq/springcloud/lb/MyLb.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/target/classes/META-INF/cloud-consumerconsul-order80.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/cloud-consumer-order80-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/cloud-consumer-order80-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/target/classes/com/wdq/springcloud/OrderConsulMain80.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/target/classes/com/wdq/springcloud/OrderConsulMain80.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/target/classes/com/wdq/springcloud/config/ApplicationContextConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/target/classes/com/wdq/springcloud/config/ApplicationContextConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumerconsul-order80/target/classes/com/wdq/springcloud/controller/OrderConsulController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerconsul-order80/target/classes/com/wdq/springcloud/controller/OrderConsulController.class" afterDir="false" />
@@ -49,7 +42,11 @@
       <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/target/classes/com/wdq/springcloud/config/ApplicationContextConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/target/classes/com/wdq/springcloud/config/ApplicationContextConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/target/classes/com/wdq/springcloud/controller/OrderZKController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumerzk-order80/target/classes/com/wdq/springcloud/controller/OrderZKController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/com/wdq/springcloud/EurekaMain7001.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/com/wdq/springcloud/EurekaMain7001.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/cloud-eureka-server7001-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/target/cloud-eureka-server7001-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/classes/com/wdq/springcloud/EurekaMain7002.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7002/target/classes/com/wdq/springcloud/EurekaMain7002.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/cloud-eureka-server7002-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7002/target/cloud-eureka-server7002-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7002/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/classes/com/wdq/springcloud/GatewayMain9527.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/classes/com/wdq/springcloud/GatewayMain9527.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/classes/com/wdq/springcloud/config/GatewayConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/classes/com/wdq/springcloud/config/GatewayConfig.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/classes/com/wdq/springcloud/filter/MyLogGatewayFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/target/classes/com/wdq/springcloud/filter/MyLogGatewayFilter.class" afterDir="false" />
@@ -59,20 +56,33 @@
       <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/wdq/springcloud/PaymentHystrixMain8001.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/wdq/springcloud/PaymentHystrixMain8001.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/wdq/springcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/wdq/springcloud/controller/PaymentController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/wdq/springcloud/service/PaymentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/wdq/springcloud/service/PaymentService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/.factorypath" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/.factorypath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/cloud-provider-hystrix-payment8001-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/cloud-provider-hystrix-payment8001-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/wdq/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/wdq/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wdq/springcloud/PaymentMain8001.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wdq/springcloud/PaymentMain8001.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wdq/springcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wdq/springcloud/controller/PaymentController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wdq/springcloud/dao/PaymentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wdq/springcloud/dao/PaymentDao.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wdq/springcloud/service/PaymentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wdq/springcloud/service/PaymentService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wdq/springcloud/service/impl/PaymentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/wdq/springcloud/service/impl/PaymentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/cloud-provider-payment8001-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/cloud-provider-payment8001-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/wdq/springcloud/PaymentMain8002.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/wdq/springcloud/PaymentMain8002.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/wdq/springcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/wdq/springcloud/controller/PaymentController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/wdq/springcloud/dao/PaymentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/wdq/springcloud/dao/PaymentDao.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/wdq/springcloud/service/PaymentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/wdq/springcloud/service/PaymentService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/wdq/springcloud/service/impl/PaymentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/wdq/springcloud/service/impl/PaymentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/cloud-provider-payment8002-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/target/cloud-provider-payment8002-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8003/target/classes/com/wdq/springcloud/Payment8003.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8003/target/classes/com/wdq/springcloud/Payment8003.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-provider-payment8003/target/classes/com/wdq/springcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8003/target/classes/com/wdq/springcloud/controller/PaymentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/classes/com/wdq/springcloud/StreamMQMain8801.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/classes/com/wdq/springcloud/StreamMQMain8801.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/classes/com/wdq/springcloud/controller/SendMessageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/classes/com/wdq/springcloud/controller/SendMessageController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/classes/com/wdq/springcloud/service/IMessageProvider.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/classes/com/wdq/springcloud/service/IMessageProvider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/classes/com/wdq/springcloud/service/impl/MessageProviderImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/target/classes/com/wdq/springcloud/service/impl/MessageProviderImpl.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -352,18 +362,18 @@
       <item itemvalue="Spring Boot.PaymentConsul8006" />
       <item itemvalue="Spring Boot.PaymentMain8001" />
       <item itemvalue="Spring Boot.PaymentMain8002" />
+      <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
       <item itemvalue="Spring Boot.ConfigCenterMain3344" />
       <item itemvalue="Spring Boot.ConfigClientMain3355" />
       <item itemvalue="Spring Boot.EurekaMain7001" />
       <item itemvalue="Spring Boot.StreamMQMain8802" />
-      <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
       <item itemvalue="Spring Boot.StreamMQMain8803" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.EurekaMain7001" />
         <item itemvalue="Spring Boot.StreamMQMain8803" />
         <item itemvalue="Spring Boot.StreamMQMain8802" />
-        <item itemvalue="Spring Boot.EurekaMain7001" />
         <item itemvalue="Spring Boot.ConfigClientMain3355" />
         <item itemvalue="Spring Boot.ConfigCenterMain3344" />
       </list>
@@ -379,6 +389,11 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
@@ -436,6 +451,7 @@
       <workItem from="1588743801597" duration="5079000" />
       <workItem from="1588756922695" duration="3465000" />
       <workItem from="1588812384568" duration="5171000" />
+      <workItem from="1588818413050" duration="2027000" />
     </task>
     <servers />
   </component>
@@ -467,45 +483,45 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="277" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588679192350" />
-    <state width="1471" height="420" key="GridCell.Tab.0.bottom" timestamp="1588818156308">
+    <state width="1471" height="321" key="GridCell.Tab.0.bottom" timestamp="1588820441590">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="420" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588818156308" />
+    <state width="1471" height="321" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588820441590" />
     <state width="1471" height="504" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588761318578" />
-    <state width="1471" height="420" key="GridCell.Tab.0.center" timestamp="1588818156308">
+    <state width="1471" height="321" key="GridCell.Tab.0.center" timestamp="1588820441590">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="420" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588818156308" />
+    <state width="1471" height="321" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588820441590" />
     <state width="1471" height="504" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588761318577" />
-    <state width="1471" height="420" key="GridCell.Tab.0.left" timestamp="1588818156308">
+    <state width="1471" height="321" key="GridCell.Tab.0.left" timestamp="1588820441589">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="420" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588818156308" />
+    <state width="1471" height="321" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588820441589" />
     <state width="1471" height="504" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588761318577" />
-    <state width="1471" height="420" key="GridCell.Tab.0.right" timestamp="1588818156308">
+    <state width="1471" height="321" key="GridCell.Tab.0.right" timestamp="1588820441590">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="420" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588818156308" />
+    <state width="1471" height="321" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588820441590" />
     <state width="1471" height="504" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588761318578" />
-    <state width="1471" height="420" key="GridCell.Tab.1.bottom" timestamp="1588818156308">
+    <state width="1471" height="321" key="GridCell.Tab.1.bottom" timestamp="1588820441591">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="420" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588818156308" />
+    <state width="1471" height="321" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588820441591" />
     <state width="1471" height="504" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588761318578" />
-    <state width="1471" height="420" key="GridCell.Tab.1.center" timestamp="1588818156308">
+    <state width="1471" height="321" key="GridCell.Tab.1.center" timestamp="1588820441590">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="420" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588818156308" />
+    <state width="1471" height="321" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588820441590" />
     <state width="1471" height="504" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588761318578" />
-    <state width="1471" height="420" key="GridCell.Tab.1.left" timestamp="1588818156308">
+    <state width="1471" height="321" key="GridCell.Tab.1.left" timestamp="1588820441590">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="420" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588818156308" />
+    <state width="1471" height="321" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588820441590" />
     <state width="1471" height="504" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588761318578" />
-    <state width="1471" height="420" key="GridCell.Tab.1.right" timestamp="1588818156308">
+    <state width="1471" height="321" key="GridCell.Tab.1.right" timestamp="1588820441590">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1471" height="420" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588818156308" />
+    <state width="1471" height="321" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588820441590" />
     <state width="1471" height="504" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588761318578" />
     <state width="1471" height="261" key="GridCell.Tab.2.bottom" timestamp="1588657394026">
       <screen x="1920" y="0" width="1920" height="1040" />

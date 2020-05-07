@@ -1,3 +1,6 @@
+D:\my_java\springCloud2020\cloud2020\cloud-consumer-order80\src\main\java\com\wdq\myrule\MySelfRule.java
 D:\my_java\springCloud2020\cloud2020\cloud-consumer-order80\src\main\java\com\wdq\springcloud\controller\OrderController.java
+D:\my_java\springCloud2020\cloud2020\cloud-consumer-order80\src\main\java\com\wdq\springcloud\lb\LoadBanlancer.java
+D:\my_java\springCloud2020\cloud2020\cloud-consumer-order80\src\main\java\com\wdq\springcloud\lb\MyLb.java
 D:\my_java\springCloud2020\cloud2020\cloud-consumer-order80\src\main\java\com\wdq\springcloud\OrderMain80.java
 D:\my_java\springCloud2020\cloud2020\cloud-consumer-order80\src\main\java\com\wdq\springcloud\config\ApplicationContextConfig.java

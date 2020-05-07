@@ -1,3 +1,6 @@
-com\wdq\springcloud\controller\OrderController.class
+com\wdq\springcloud\lb\MyLb.class
 com\wdq\springcloud\OrderMain80.class
 com\wdq\springcloud\config\ApplicationContextConfig.class
+com\wdq\springcloud\lb\LoadBanlancer.class
+com\wdq\myrule\MySelfRule.class
+com\wdq\springcloud\controller\OrderController.class
